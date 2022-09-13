@@ -9,4 +9,8 @@ You can install the shortsdl library from PyPi or clone it using following comma
 
 # Supported Apps and websites
 Here's a list of supported apps and websites:
-- Supported Platforms will be listed here.
+- Supported Platforms will be listed here
+
+# Contact
+- Telegram: https://telegram.me/shortsdl & https://telegram.me/w3Abhishek
+- Twitter: https://twitter.com/shortsdl
