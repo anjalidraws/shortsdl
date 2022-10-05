@@ -7,9 +7,28 @@ ShortsDL helps you to extract metadata and download videos from short video apps
 # How to use shortsdl?
 You can install the shortsdl library from PyPi or clone it using following command:
 
+`Tutorial will be added after adding enough platforms.`
+
 # Supported Apps and websites
 Here's a list of supported apps and websites:
-- Supported Platforms will be listed here
+- Chingari
+- FunXD
+- Hipi
+- Josh
+- Likee
+- LitIt
+- Mitron
+- Moj
+- Playsee
+- Rizzle
+- Roposo
+- Snack Video
+- Tick
+- Tiki
+- Triller
+- VShorts
+- ZikTalk
+- Zili
 
 # Contact
 - Telegram: https://telegram.me/shortsdl & https://telegram.me/w3Abhishek
